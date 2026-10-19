@@ -1,4 +1,4 @@
-# IMDB Top 1000 -Preprocessing
+# IMDB Top 1000-Preprocessing
 Repository ini berisi proses preprocessing dataset IMDB Top 1000 Movies.
 Preprocessing dataset IMDB Top 1000: data cleaning, type conversion, sorting, dan EDA deskriptif untuk 1000 film terbaik.
 
